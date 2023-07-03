@@ -107,7 +107,7 @@ position: relative;
     background-color:white;
     width: 350px;
     height: 300px;
-    box-shadow: 0 35px 80px aqua;
+    box-shadow: 0 35px 80px rgb(0,255,255);
     border-radius: 20px;
     transition: 0.5s;
     
